@@ -1,7 +1,6 @@
 import util from 'util';
 import net from 'net';
 import TLS from 'tls';
-import Promise from 'promise';
 import {Subject, Observable} from 'rxjs';
 import {autobind} from 'core-decorators';
 import crypto from 'crypto';
