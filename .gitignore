@@ -4,3 +4,4 @@ test
 .jshintrc
 jsconfig.json
 src/parser.js
+.npmrc

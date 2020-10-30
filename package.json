@@ -1,5 +1,5 @@
 {
-  "name": "mikronode",
+  "name": "@tenaur/mikronode",
   "description": "Mikrotik API implemented in Node",
   "version": "2.3.11",
   "author": "Brandon Myers <trakkasure@gmail.com>",
@@ -23,8 +23,7 @@
     "socket",
     "api"
   ],
-  "repository": "git://github.com/trakkasure/mikronode",
-  "bugs": "https://github.com/Trakkasure/mikronode/issues",
+  "repository": "git://github.com/tenaur/mikronode",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-eslint": "^6.1.2",
